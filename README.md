@@ -5,11 +5,11 @@
 <img height="320" src="https://files.catbox.moe/1vr0rc.png" align="right">
 <p align="center">
    
-$${\color{#ffffff}\textsf{valentine}}$$
+$${\color{#1E2752}\textsf{im valentine}}$$
 
-$${\color{#ffffff}\textsf{pomogender}}$$$${\color{#ffffff}\textsf{questioning orientation}}$$
+$${\color{#1E2752}\textsf{pomogender}}$$$${\color{#DC931E}\textsf{questioning orientation}}$$
 
-$${\color{#ffffff}\textsf{he\color{#E7AE95}it}}$$
+$${\color{#1E2752}\textsf{he\color{#DC931E}it}}$$
 
 <p align="center"> 
 
