@@ -1,23 +1,22 @@
 <div align="center">
 <p align="right">
-<img width="850" height="200" src="https://files.catbox.moe/333aya.png" alt="67">
+<img width="850" height="200" src="link" alt="67">
 <p align="center">
-<img height="320" src="https://files.catbox.moe/a3iul1.png" align="right">
+<img height="320" src="link" align="right">
 <p align="center">
    
-$${\color{#D27F84}\textsf{valentine}}$$
+$${\color{#ffffff}\textsf{valentine}}$$
 
-$${\color{#F9F0B1}\textsf{pomogender}}$$$${\color{#E7AE95}\textsf{questioning orientation}}$$
+$${\color{#ffffff}\textsf{pomogender}}$$$${\color{#E7AE95}\textsf{questioning orientation}}$$
 
-$${\color{#C07384}\textsf{he\color{#E7AE95}it}}$$
+$${\color{#ffffff}\textsf{he\color{#E7AE95}it}}$$
 
 <p align="center"> 
 
 <details closed>
-<summary>$${\color{#E7AE95}\textsf{extended}}$$</summary>
+<summary>$${\color{#ffffff}\textsf{extended}}$$</summary>
 ⠀
 <p align="center">
-<img width = "500" src="https://files.catbox.moe/yhjm1v.png" alt="67">
 
 !!DO NOT INVOLVE ME IN DRAMA/DISCOURSE UNLESS IT'S NEEDED!! it pisses me off if i dont have any correlation to some bullshit u get in and drag me in
 
