@@ -7,7 +7,7 @@
    
 $${\color{#ffffff}\textsf{valentine}}$$
 
-$${\color{#ffffff}\textsf{pomogender}}$$$${\color{#E7AE95}\textsf{questioning orientation}}$$
+$${\color{#ffffff}\textsf{pomogender}}$$$${\color{#ffffff}\textsf{questioning orientation}}$$
 
 $${\color{#ffffff}\textsf{he\color{#E7AE95}it}}$$
 
