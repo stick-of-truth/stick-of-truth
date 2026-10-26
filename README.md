@@ -24,7 +24,7 @@ im less active due to school, other hobbies, and stuff
 
   main: [@roadtosleepyhollow](https://github.com/roadtosleepyhollow)
   
-  alt: [@bloody-tea](https://github.com/bloody-tea), [@engineer-monkey](https://github.com/engineer-monkey)
+  alt: , [@stick-of-truth](https://github.com/stick-of-truth)
 
 this is prone to change, read below for a potentially triggering dni list, and important information! have a good day, tschüss!
 
