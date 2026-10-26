@@ -5,11 +5,11 @@
 <img height="320" src="https://files.catbox.moe/1vr0rc.png" align="right">
 <p align="center">
    
-$${\color{#3F528A}\textsf{im valentine}}$$
+$${\color{#3F528A}\textsf{im valentine or ferryman}}$$
 
-$${\color{#1E2752}\textsf{pomogender}}$$$${\color{#3F528A}\textsf{questioning orientation}}$$
+$${\color{#1E2752}\textsf{apagender transmasc}}$$$${\color{#DC931E}\textsf{male pref biromantic}}$$
 
-$${\color{#3F528A}\textsf{he\color{#3F528A}it}}$$
+$${\color{#3F528A}\textsf{he\color{#DC931E}it}}$$
 
 <p align="center"> 
 
