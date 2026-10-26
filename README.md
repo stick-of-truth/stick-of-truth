@@ -5,7 +5,7 @@
 <img height="220" width=“200” src="https://files.catbox.moe/foh5to.png" align="right">
 <p align="center">
    
-$${\color{#3F528A}\textsf{im valentine or ferryman}}$$
+$${\color{#3F528A}\textsf{im \color{#DC931E}valentine or ferryman}}$$
 
 $${\color{#3F528A}\textsf{apagender transmasc}}$$$${\color{#DC931E}\textsf{male pref biromantic}}$$
 
