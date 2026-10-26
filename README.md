@@ -1,8 +1,8 @@
 <div align="center">
 <p align="right">
-<img width="850" height="200" src="[link](https://files.catbox.moe/vpjz3o.jpeg)" alt="67">
+<img width="800” height="200" src="https://files.catbox.moe/vpjz3o.jpeg" alt="67">
 <p align="center">
-<img height="320" src="link" align="right">
+<img height="320" src="https://files.catbox.moe/1vr0rc.png" align="right">
 <p align="center">
    
 $${\color{#ffffff}\textsf{valentine}}$$
