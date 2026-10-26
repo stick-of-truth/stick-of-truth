@@ -7,9 +7,9 @@
    
 $${\color{#3F528A}\textsf{im valentine}}$$
 
-$${\color{#1E2752}\textsf{pomogender}}$$$${\color{#DC931E}\textsf{questioning orientation}}$$
+$${\color{#1E2752}\textsf{pomogender}}$$$${\color{#3F528A}\textsf{questioning orientation}}$$
 
-$${\color{#1E2752}\textsf{he\color{#DC931E}it}}$$
+$${\color{#3F528A}\textsf{he\color{#3F528A}it}}$$
 
 <p align="center"> 
 
