@@ -5,7 +5,7 @@
 <img height="320" src="https://files.catbox.moe/1vr0rc.png" align="right">
 <p align="center">
    
-$${\color{#1E2752}\textsf{im valentine}}$$
+$${\color{#3F528A}\textsf{im valentine}}$$
 
 $${\color{#1E2752}\textsf{pomogender}}$$$${\color{#DC931E}\textsf{questioning orientation}}$$
 
