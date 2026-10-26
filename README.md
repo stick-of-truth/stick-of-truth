@@ -2,7 +2,7 @@
 <p align="right">
 <img width="800” height="200" src="https://files.catbox.moe/vpjz3o.jpeg" alt="67">
 <p align="center">
-<img height="320" src="https://files.catbox.moe/foh5to.png" align="right">
+<img height="220" width=“200” src="https://files.catbox.moe/foh5to.png" align="right">
 <p align="center">
    
 $${\color{#3F528A}\textsf{im valentine or ferryman}}$$
