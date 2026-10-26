@@ -1,6 +1,6 @@
 <div align="center">
 <p align="right">
-<img width="850" height="200" src="link" alt="67">
+<img width="850" height="200" src="[link](https://files.catbox.moe/vpjz3o.jpeg)" alt="67">
 <p align="center">
 <img height="320" src="link" align="right">
 <p align="center">
