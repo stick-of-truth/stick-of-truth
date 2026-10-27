@@ -37,4 +37,4 @@ dni is barely here, but just don’t be weird (hypocritical, racist, homophobic,
   <i><a href="https://vxmpired.straw.page/">straw</a></i> <i><a href="https://pronouns.cc/@bloodytea">prns.cc</a></i> <i><a href="https://bloodytea.atabook.org/">新book</a></i>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jqi4ggf3dxjk4qpg6p4deelgim&cover_image=false&theme=natemoo-re&show_offline=false&background_color=3F528A&interchange=true&profanity=false&hide_remaster=false&bar_color=D27F84&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jqi4ggf3dxjk4qpg6p4deelgim&cover_image=false&theme=natemoo-re&show_offline=false&background_color=DC931E&interchange=true&profanity=false&hide_remaster=false&bar_color=D27F84&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
